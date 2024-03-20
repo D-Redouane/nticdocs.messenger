@@ -5,7 +5,7 @@ To run the Messenger Bot on Replit.com, follow these steps:
 1. Clone this repository to your Repl in your Replit account using your GitHub token for One use command [Github Docs For Access Tokens](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 
     ```bash
-    git clone https://your_username:your_token@github.com/your_username/your_repo.git
+    git clone https://your_username:your_token@github.com/D-Redouane/nticdocs.messenger.git
     ```
 
    Replace `your_username` with your GitHub username, `your_token` with your GitHub token, and `your_repo` with the name of your repository.
