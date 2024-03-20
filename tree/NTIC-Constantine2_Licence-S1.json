@@ -1,0 +1,610 @@
+{
+  "ALG_Algèbre_1_(I_-L1)": {
+    "Cours": {
+      "Chapitre_1__Logique_et_Raisonnement.pdf": {
+        "name": "Chapitre 1_ Logique et Raisonnement.pdf",
+        "path": "ALG Algèbre 1 (I -L1)/Cours/Chapitre 1_ Logique et Raisonnement.pdf",
+        "sha": "0a14f1972ccbf8751327e8ff7e61483c488d2f0c",
+        "size": 1023822,
+        "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/ALG%20Alg%C3%A8bre%201%20(I%20-L1)/Cours/Chapitre%201_%20Logique%20et%20Raisonnement.pdf?ref=main",
+        "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/ALG%20Alg%C3%A8bre%201%20(I%20-L1)/Cours/Chapitre%201_%20Logique%20et%20Raisonnement.pdf",
+        "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/0a14f1972ccbf8751327e8ff7e61483c488d2f0c",
+        "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/ALG Algèbre 1 (I -L1)/Cours/Chapitre%201_%20Logique%20et%20Raisonnement.pdf",
+        "type": "file"
+      },
+      "Chapitre_2__Ensembles_et_applications.pdf": {
+        "name": "Chapitre 2_ Ensembles et applications.pdf",
+        "path": "ALG Algèbre 1 (I -L1)/Cours/Chapitre 2_ Ensembles et applications.pdf",
+        "sha": "90073f1bd9fb417fd278b9117032db03ba70e52b",
+        "size": 1466074,
+        "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/ALG%20Alg%C3%A8bre%201%20(I%20-L1)/Cours/Chapitre%202_%20Ensembles%20et%20applications.pdf?ref=main",
+        "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/ALG%20Alg%C3%A8bre%201%20(I%20-L1)/Cours/Chapitre%202_%20Ensembles%20et%20applications.pdf",
+        "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/90073f1bd9fb417fd278b9117032db03ba70e52b",
+        "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/ALG Algèbre 1 (I -L1)/Cours/Chapitre%202_%20Ensembles%20et%20applications.pdf",
+        "type": "file"
+      },
+      "Chapitre_3__Relations_binaires.pdf": {
+        "name": "Chapitre 3_ Relations binaires.pdf",
+        "path": "ALG Algèbre 1 (I -L1)/Cours/Chapitre 3_ Relations binaires.pdf",
+        "sha": "2f2e020b313f9f31512deb6b608c21b3c6108df8",
+        "size": 1331819,
+        "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/ALG%20Alg%C3%A8bre%201%20(I%20-L1)/Cours/Chapitre%203_%20Relations%20binaires.pdf?ref=main",
+        "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/ALG%20Alg%C3%A8bre%201%20(I%20-L1)/Cours/Chapitre%203_%20Relations%20binaires.pdf",
+        "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/2f2e020b313f9f31512deb6b608c21b3c6108df8",
+        "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/ALG Algèbre 1 (I -L1)/Cours/Chapitre%203_%20Relations%20binaires.pdf",
+        "type": "file"
+      },
+      "Chapitre_4__Structures_algebriques.pdf": {
+        "name": "Chapitre 4_ Structures algebriques.pdf",
+        "path": "ALG Algèbre 1 (I -L1)/Cours/Chapitre 4_ Structures algebriques.pdf",
+        "sha": "bd824cd50fefebb6e08ca5321ada5d133dcafe9e",
+        "size": 1015033,
+        "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/ALG%20Alg%C3%A8bre%201%20(I%20-L1)/Cours/Chapitre%204_%20Structures%20algebriques.pdf?ref=main",
+        "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/ALG%20Alg%C3%A8bre%201%20(I%20-L1)/Cours/Chapitre%204_%20Structures%20algebriques.pdf",
+        "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/bd824cd50fefebb6e08ca5321ada5d133dcafe9e",
+        "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/ALG Algèbre 1 (I -L1)/Cours/Chapitre%204_%20Structures%20algebriques.pdf",
+        "type": "file"
+      }
+    },
+    "TD": {
+      "S%C3%A9rie_2.pdf": {
+        "name": "Série 2.pdf",
+        "path": "ALG Algèbre 1 (I -L1)/TD/Série 2.pdf",
+        "sha": "18ec25474da412f7a34f1d2f2881eaa942dfc708",
+        "size": 653160,
+        "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/ALG%20Alg%C3%A8bre%201%20(I%20-L1)/TD/S%C3%A9rie%202.pdf?ref=main",
+        "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/ALG%20Alg%C3%A8bre%201%20(I%20-L1)/TD/S%C3%A9rie%202.pdf",
+        "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/18ec25474da412f7a34f1d2f2881eaa942dfc708",
+        "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/ALG Algèbre 1 (I -L1)/TD/Série 2.pdf",
+        "type": "file"
+      },
+      "S%C3%A9rie_3.pdf": {
+        "name": "Série 3.pdf",
+        "path": "ALG Algèbre 1 (I -L1)/TD/Série 3.pdf",
+        "sha": "a0b30a76b17d5cd9eb89d2d00c4624a58ae99148",
+        "size": 396451,
+        "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/ALG%20Alg%C3%A8bre%201%20(I%20-L1)/TD/S%C3%A9rie%203.pdf?ref=main",
+        "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/ALG%20Alg%C3%A8bre%201%20(I%20-L1)/TD/S%C3%A9rie%203.pdf",
+        "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/a0b30a76b17d5cd9eb89d2d00c4624a58ae99148",
+        "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/ALG Algèbre 1 (I -L1)/TD/Série 3.pdf",
+        "type": "file"
+      },
+      "S%C3%A9rie_4.pdf": {
+        "name": "Série 4.pdf",
+        "path": "ALG Algèbre 1 (I -L1)/TD/Série 4.pdf",
+        "sha": "67c9dfebc5a5271f74769ce29674b71e8a0ecabf",
+        "size": 617563,
+        "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/ALG%20Alg%C3%A8bre%201%20(I%20-L1)/TD/S%C3%A9rie%204.pdf?ref=main",
+        "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/ALG%20Alg%C3%A8bre%201%20(I%20-L1)/TD/S%C3%A9rie%204.pdf",
+        "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/67c9dfebc5a5271f74769ce29674b71e8a0ecabf",
+        "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/ALG Algèbre 1 (I -L1)/TD/Série 4.pdf",
+        "type": "file"
+      },
+      "serie_1.pdf": {
+        "name": "serie 1.pdf",
+        "path": "ALG Algèbre 1 (I -L1)/TD/serie 1.pdf",
+        "sha": "bb7c59c0013741ce88440cb7c48587f9affa76fc",
+        "size": 738323,
+        "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/ALG%20Alg%C3%A8bre%201%20(I%20-L1)/TD/serie%201.pdf?ref=main",
+        "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/ALG%20Alg%C3%A8bre%201%20(I%20-L1)/TD/serie%201.pdf",
+        "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/bb7c59c0013741ce88440cb7c48587f9affa76fc",
+        "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/ALG Algèbre 1 (I -L1)/TD/serie%201.pdf",
+        "type": "file"
+      }
+    }
+  },
+  "ALGO_l'Algorithme_(I-L1)": {
+    "Cours": {
+      "Cours_Ch1_Ch2_Algo_2020_Cne2.pdf": {
+        "name": "Cours_Ch1_Ch2_Algo_2020_Cne2.pdf",
+        "path": "ALGO l'Algorithme (I-L1)/Cours/Cours_Ch1_Ch2_Algo_2020_Cne2.pdf",
+        "sha": "a0438d2136c875c1272616f202a2838a4c577f0f",
+        "size": 386393,
+        "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/ALGO%20l'Algorithme%20(I-L1)/Cours/Cours_Ch1_Ch2_Algo_2020_Cne2.pdf?ref=main",
+        "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/ALGO%20l'Algorithme%20(I-L1)/Cours/Cours_Ch1_Ch2_Algo_2020_Cne2.pdf",
+        "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/a0438d2136c875c1272616f202a2838a4c577f0f",
+        "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/ALGO%20l'Algorithme%20(I-L1)/Cours/Cours_Ch1_Ch2_Algo_2020_Cne2.pdf",
+        "type": "file"
+      },
+      "Cours_Ch3_Algo_2020_Cne2.pdf": {
+        "name": "Cours_Ch3_Algo_2020_Cne2.pdf",
+        "path": "ALGO l'Algorithme (I-L1)/Cours/Cours_Ch3_Algo_2020_Cne2.pdf",
+        "sha": "077ccb8b33b2572145990ddc46f30441f6acb212",
+        "size": 85439,
+        "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/ALGO%20l'Algorithme%20(I-L1)/Cours/Cours_Ch3_Algo_2020_Cne2.pdf?ref=main",
+        "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/ALGO%20l'Algorithme%20(I-L1)/Cours/Cours_Ch3_Algo_2020_Cne2.pdf",
+        "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/077ccb8b33b2572145990ddc46f30441f6acb212",
+        "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/ALGO%20l'Algorithme%20(I-L1)/Cours/Cours_Ch3_Algo_2020_Cne2.pdf",
+        "type": "file"
+      }
+    },
+    "TD": {
+      "TD1_Algo_2020_Cne2.pdf": {
+        "name": "TD1_Algo_2020_Cne2.pdf",
+        "path": "ALGO l'Algorithme (I-L1)/TD/TD1_Algo_2020_Cne2.pdf",
+        "sha": "58f79fde482ba1e058c0fc9c649181e4ba65cf6e",
+        "size": 58640,
+        "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/ALGO%20l'Algorithme%20(I-L1)/TD/TD1_Algo_2020_Cne2.pdf?ref=main",
+        "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/ALGO%20l'Algorithme%20(I-L1)/TD/TD1_Algo_2020_Cne2.pdf",
+        "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/58f79fde482ba1e058c0fc9c649181e4ba65cf6e",
+        "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/ALGO%20l'Algorithme%20(I-L1)/TD/TD1_Algo_2020_Cne2.pdf",
+        "type": "file"
+      },
+      "TD2_Algo_2020_Cne2.pdf": {
+        "name": "TD2_Algo_2020_Cne2.pdf",
+        "path": "ALGO l'Algorithme (I-L1)/TD/TD2_Algo_2020_Cne2.pdf",
+        "sha": "e47d2cca124fafb74e84d47bd0a6011b34ed64b1",
+        "size": 63992,
+        "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/ALGO%20l'Algorithme%20(I-L1)/TD/TD2_Algo_2020_Cne2.pdf?ref=main",
+        "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/ALGO%20l'Algorithme%20(I-L1)/TD/TD2_Algo_2020_Cne2.pdf",
+        "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/e47d2cca124fafb74e84d47bd0a6011b34ed64b1",
+        "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/ALGO%20l'Algorithme%20(I-L1)/TD/TD2_Algo_2020_Cne2.pdf",
+        "type": "file"
+      },
+      "TD3_Algo_2020_Cne2.pdf": {
+        "name": "TD3_Algo_2020_Cne2.pdf",
+        "path": "ALGO l'Algorithme (I-L1)/TD/TD3_Algo_2020_Cne2.pdf",
+        "sha": "b2f2705531465d35a992c7d8836c620760ba72b5",
+        "size": 100675,
+        "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/ALGO%20l'Algorithme%20(I-L1)/TD/TD3_Algo_2020_Cne2.pdf?ref=main",
+        "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/ALGO%20l'Algorithme%20(I-L1)/TD/TD3_Algo_2020_Cne2.pdf",
+        "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/b2f2705531465d35a992c7d8836c620760ba72b5",
+        "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/ALGO%20l'Algorithme%20(I-L1)/TD/TD3_Algo_2020_Cne2.pdf",
+        "type": "file"
+      },
+      "TD4_Algo_2020_Cne2.pdf": {
+        "name": "TD4_Algo_2020_Cne2.pdf",
+        "path": "ALGO l'Algorithme (I-L1)/TD/TD4_Algo_2020_Cne2.pdf",
+        "sha": "f4f578dd88db038d7183fc0f783fc38a02732452",
+        "size": 88869,
+        "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/ALGO%20l'Algorithme%20(I-L1)/TD/TD4_Algo_2020_Cne2.pdf?ref=main",
+        "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/ALGO%20l'Algorithme%20(I-L1)/TD/TD4_Algo_2020_Cne2.pdf",
+        "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/f4f578dd88db038d7183fc0f783fc38a02732452",
+        "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/ALGO%20l'Algorithme%20(I-L1)/TD/TD4_Algo_2020_Cne2.pdf",
+        "type": "file"
+      },
+      "TD5_Algo_2020_Cne2.pdf": {
+        "name": "TD5_Algo_2020_Cne2.pdf",
+        "path": "ALGO l'Algorithme (I-L1)/TD/TD5_Algo_2020_Cne2.pdf",
+        "sha": "0462b3bd9366177b1f20577d817dcc4b0867c7cc",
+        "size": 66904,
+        "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/ALGO%20l'Algorithme%20(I-L1)/TD/TD5_Algo_2020_Cne2.pdf?ref=main",
+        "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/ALGO%20l'Algorithme%20(I-L1)/TD/TD5_Algo_2020_Cne2.pdf",
+        "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/0462b3bd9366177b1f20577d817dcc4b0867c7cc",
+        "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/ALGO%20l'Algorithme%20(I-L1)/TD/TD5_Algo_2020_Cne2.pdf",
+        "type": "file"
+      }
+    }
+  },
+  "ANA_Analyse_1_(I-L1)": {
+    "chapitre_1_et2__analyse_1_avec_td_1_et_2.pdf": {
+      "name": "chapitre 1 et2  analyse 1 avec td 1 et 2.pdf",
+      "path": "ANA Analyse 1 (I-L1)/chapitre 1 et2  analyse 1 avec td 1 et 2.pdf",
+      "sha": "ab287acd80787ea44476d74a43d5fd135d96a775",
+      "size": 1623809,
+      "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/ANA%20Analyse%201%20(I-L1)/chapitre%201%20et2%20%20analyse%201%20avec%20td%201%20et%202.pdf?ref=main",
+      "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/ANA%20Analyse%201%20(I-L1)/chapitre%201%20et2%20%20analyse%201%20avec%20td%201%20et%202.pdf",
+      "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/ab287acd80787ea44476d74a43d5fd135d96a775",
+      "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/ANA%20Analyse%201%20(I-L1)/chapitre%201%20et2%20%20analyse%201%20avec%20td%201%20et%202.pdf",
+      "type": "file"
+    },
+    "others": {
+      "analyse_1_.pdf": {
+        "name": "analyse 1 .pdf",
+        "path": "ANA Analyse 1 (I-L1)/others/analyse 1 .pdf",
+        "sha": "fb403f1106312d16e2b202270428aa4d5a8d62f9",
+        "size": 365979,
+        "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/ANA%20Analyse%201%20(I-L1)/others/analyse%201%20.pdf?ref=main",
+        "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/ANA%20Analyse%201%20(I-L1)/others/analyse%201%20.pdf",
+        "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/fb403f1106312d16e2b202270428aa4d5a8d62f9",
+        "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/ANA%20Analyse%201%20(I-L1)/others/analyse%201%20.pdf",
+        "type": "file"
+      },
+      "fic00009.pdf": {
+        "name": "fic00009.pdf",
+        "path": "ANA Analyse 1 (I-L1)/others/fic00009.pdf",
+        "sha": "090be45e267c524dd719a59271c8703ac6439021",
+        "size": 188550,
+        "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/ANA%20Analyse%201%20(I-L1)/others/fic00009.pdf?ref=main",
+        "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/ANA%20Analyse%201%20(I-L1)/others/fic00009.pdf",
+        "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/090be45e267c524dd719a59271c8703ac6439021",
+        "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/ANA%20Analyse%201%20(I-L1)/others/fic00009.pdf",
+        "type": "file"
+      },
+      "fic00010.pdf": {
+        "name": "fic00010.pdf",
+        "path": "ANA Analyse 1 (I-L1)/others/fic00010.pdf",
+        "sha": "c5b48331cf1d5dfbb0c4dddec24befd8e0820f1c",
+        "size": 215980,
+        "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/ANA%20Analyse%201%20(I-L1)/others/fic00010.pdf?ref=main",
+        "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/ANA%20Analyse%201%20(I-L1)/others/fic00010.pdf",
+        "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/c5b48331cf1d5dfbb0c4dddec24befd8e0820f1c",
+        "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/ANA%20Analyse%201%20(I-L1)/others/fic00010.pdf",
+        "type": "file"
+      },
+      "fic00013.pdf": {
+        "name": "fic00013.pdf",
+        "path": "ANA Analyse 1 (I-L1)/others/fic00013.pdf",
+        "sha": "407d50dcfc08ffa00de75ae522f12233d96d505d",
+        "size": 186082,
+        "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/ANA%20Analyse%201%20(I-L1)/others/fic00013.pdf?ref=main",
+        "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/ANA%20Analyse%201%20(I-L1)/others/fic00013.pdf",
+        "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/407d50dcfc08ffa00de75ae522f12233d96d505d",
+        "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/ANA%20Analyse%201%20(I-L1)/others/fic00013.pdf",
+        "type": "file"
+      },
+      "fonction_et_conte.pdf": {
+        "name": "fonction et conte.pdf",
+        "path": "ANA Analyse 1 (I-L1)/others/fonction et conte.pdf",
+        "sha": "4d6953a945a292538822a5ef4be346f47c16358f",
+        "size": 182538,
+        "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/ANA%20Analyse%201%20(I-L1)/others/fonction%20et%20conte.pdf?ref=main",
+        "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/ANA%20Analyse%201%20(I-L1)/others/fonction%20et%20conte.pdf",
+        "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/4d6953a945a292538822a5ef4be346f47c16358f",
+        "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/ANA%20Analyse%201%20(I-L1)/others/fonction%20et%20conte.pdf",
+        "type": "file"
+      }
+    },
+    "solution_td1.pdf": {
+      "name": "solution td1.pdf",
+      "path": "ANA Analyse 1 (I-L1)/solution td1.pdf",
+      "sha": "35b1da5d8c5b0b4458c15c40e2f622d2c352e397",
+      "size": 6565711,
+      "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/ANA%20Analyse%201%20(I-L1)/solution%20td1.pdf?ref=main",
+      "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/ANA%20Analyse%201%20(I-L1)/solution%20td1.pdf",
+      "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/35b1da5d8c5b0b4458c15c40e2f622d2c352e397",
+      "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/ANA%20Analyse%201%20(I-L1)/solution%20td1.pdf",
+      "type": "file"
+    },
+    "solution_td2.pdf": {
+      "name": "solution td2.pdf",
+      "path": "ANA Analyse 1 (I-L1)/solution td2.pdf",
+      "sha": "199599bcd55a14f03ce5150c80785a43428f88e6",
+      "size": 3729264,
+      "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/ANA%20Analyse%201%20(I-L1)/solution%20td2.pdf?ref=main",
+      "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/ANA%20Analyse%201%20(I-L1)/solution%20td2.pdf",
+      "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/199599bcd55a14f03ce5150c80785a43428f88e6",
+      "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/ANA%20Analyse%201%20(I-L1)/solution%20td2.pdf",
+      "type": "file"
+    }
+  },
+  "CRI_Codage_et_Représentation_de_l'Information_(I_-L1)": {
+    "Cours1-CRI.docx": {
+      "name": "Cours1-CRI.docx",
+      "path": "CRI Codage et Représentation de l'Information (I -L1)/Cours1-CRI.docx",
+      "sha": "042e01778069a1db7fd69729ba70ada64f93cd29",
+      "size": 326859,
+      "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/CRI%20Codage%20et%20Repr%C3%A9sentation%20de%20l'Information%20(I%20-L1)/Cours1-CRI.docx?ref=main",
+      "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/CRI%20Codage%20et%20Repr%C3%A9sentation%20de%20l'Information%20(I%20-L1)/Cours1-CRI.docx",
+      "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/042e01778069a1db7fd69729ba70ada64f93cd29",
+      "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/CRI Codage et Représentation de l'Information (I -L1)/Cours1-CRI.docx",
+      "type": "file"
+    }
+  },
+  "ECS_Electronique_et_Composants_des_Systèmes_(I_-L1)": {
+    "Cours": {
+      "chapitre_1.pdf": {
+        "name": "chapitre 1.pdf",
+        "path": "ECS Electronique et Composants des Systèmes (I -L1)/Cours/chapitre 1.pdf",
+        "sha": "50a3185dcc240b9318adc5009224c2c3e91be9aa",
+        "size": 1974664,
+        "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/ECS%20Electronique%20et%20Composants%20des%20Syst%C3%A8mes%20(I%20-L1)/Cours/chapitre%201.pdf?ref=main",
+        "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/ECS%20Electronique%20et%20Composants%20des%20Syst%C3%A8mes%20(I%20-L1)/Cours/chapitre%201.pdf",
+        "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/50a3185dcc240b9318adc5009224c2c3e91be9aa",
+        "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/ECS Electronique et Composants des Systèmes (I -L1)/Cours/chapitre%201.pdf",
+        "type": "file"
+      },
+      "chapitre_2.ppt": {
+        "name": "chapitre 2.ppt",
+        "path": "ECS Electronique et Composants des Systèmes (I -L1)/Cours/chapitre 2.ppt",
+        "sha": "d198f89b86e779a807837b4521fbbb0e531cf2b9",
+        "size": 3362304,
+        "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/ECS%20Electronique%20et%20Composants%20des%20Syst%C3%A8mes%20(I%20-L1)/Cours/chapitre%202.ppt?ref=main",
+        "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/ECS%20Electronique%20et%20Composants%20des%20Syst%C3%A8mes%20(I%20-L1)/Cours/chapitre%202.ppt",
+        "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/d198f89b86e779a807837b4521fbbb0e531cf2b9",
+        "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/ECS Electronique et Composants des Systèmes (I -L1)/Cours/chapitre%202.ppt",
+        "type": "file"
+      },
+      "chapitre_3.ppt": {
+        "name": "chapitre 3.ppt",
+        "path": "ECS Electronique et Composants des Systèmes (I -L1)/Cours/chapitre 3.ppt",
+        "sha": "5bdb0c76d23dbf6f4978f93897a136f79b9b58a0",
+        "size": 4032000,
+        "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/ECS%20Electronique%20et%20Composants%20des%20Syst%C3%A8mes%20(I%20-L1)/Cours/chapitre%203.ppt?ref=main",
+        "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/ECS%20Electronique%20et%20Composants%20des%20Syst%C3%A8mes%20(I%20-L1)/Cours/chapitre%203.ppt",
+        "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/5bdb0c76d23dbf6f4978f93897a136f79b9b58a0",
+        "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/ECS Electronique et Composants des Systèmes (I -L1)/Cours/chapitre%203.ppt",
+        "type": "file"
+      },
+      "chapitre_4.ppt": {
+        "name": "chapitre 4.ppt",
+        "path": "ECS Electronique et Composants des Systèmes (I -L1)/Cours/chapitre 4.ppt",
+        "sha": "a903a2aab6f97deca0a3583cb0a5623d73c9a2c1",
+        "size": 1052672,
+        "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/ECS%20Electronique%20et%20Composants%20des%20Syst%C3%A8mes%20(I%20-L1)/Cours/chapitre%204.ppt?ref=main",
+        "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/ECS%20Electronique%20et%20Composants%20des%20Syst%C3%A8mes%20(I%20-L1)/Cours/chapitre%204.ppt",
+        "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/a903a2aab6f97deca0a3583cb0a5623d73c9a2c1",
+        "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/ECS Electronique et Composants des Systèmes (I -L1)/Cours/chapitre%204.ppt",
+        "type": "file"
+      }
+    },
+    "TD": {
+      "TD_1.doc": {
+        "name": "TD 1.doc",
+        "path": "ECS Electronique et Composants des Systèmes (I -L1)/TD/TD 1.doc",
+        "sha": "852b3b8f175e75e474d9b27bfab851f5b8cb4327",
+        "size": 151040,
+        "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/ECS%20Electronique%20et%20Composants%20des%20Syst%C3%A8mes%20(I%20-L1)/TD/TD%201.doc?ref=main",
+        "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/ECS%20Electronique%20et%20Composants%20des%20Syst%C3%A8mes%20(I%20-L1)/TD/TD%201.doc",
+        "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/852b3b8f175e75e474d9b27bfab851f5b8cb4327",
+        "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/ECS Electronique et Composants des Systèmes (I -L1)/TD/TD%201.doc",
+        "type": "file"
+      },
+      "TD_2.doc": {
+        "name": "TD 2.doc",
+        "path": "ECS Electronique et Composants des Systèmes (I -L1)/TD/TD 2.doc",
+        "sha": "2c3dc941bfd5858015379a9f6fcc36fe292ad580",
+        "size": 139264,
+        "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/ECS%20Electronique%20et%20Composants%20des%20Syst%C3%A8mes%20(I%20-L1)/TD/TD%202.doc?ref=main",
+        "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/ECS%20Electronique%20et%20Composants%20des%20Syst%C3%A8mes%20(I%20-L1)/TD/TD%202.doc",
+        "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/2c3dc941bfd5858015379a9f6fcc36fe292ad580",
+        "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/ECS Electronique et Composants des Systèmes (I -L1)/TD/TD%202.doc",
+        "type": "file"
+      },
+      "TD_3.doc": {
+        "name": "TD 3.doc",
+        "path": "ECS Electronique et Composants des Systèmes (I -L1)/TD/TD 3.doc",
+        "sha": "e7e2f8905192030bc14f185786954225d0de04b8",
+        "size": 233472,
+        "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/ECS%20Electronique%20et%20Composants%20des%20Syst%C3%A8mes%20(I%20-L1)/TD/TD%203.doc?ref=main",
+        "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/ECS%20Electronique%20et%20Composants%20des%20Syst%C3%A8mes%20(I%20-L1)/TD/TD%203.doc",
+        "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/e7e2f8905192030bc14f185786954225d0de04b8",
+        "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/ECS Electronique et Composants des Systèmes (I -L1)/TD/TD%203.doc",
+        "type": "file"
+      }
+    }
+  },
+  "LICENSE.md": {
+    "name": "LICENSE.md",
+    "path": "LICENSE.md",
+    "sha": "fcd8a9039b9345fa76d34b8bcea531359243f835",
+    "size": 18025,
+    "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/LICENSE.md?ref=main",
+    "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/LICENSE.md",
+    "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/fcd8a9039b9345fa76d34b8bcea531359243f835",
+    "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/LICENSE.md",
+    "type": "file"
+  },
+  "Readme.md": {
+    "name": "Readme.md",
+    "path": "Readme.md",
+    "sha": "d8c35e4e293a3b6cccf1e8087c2eb308287c19b1",
+    "size": 6295,
+    "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/Readme.md?ref=main",
+    "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/Readme.md",
+    "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/d8c35e4e293a3b6cccf1e8087c2eb308287c19b1",
+    "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/Readme.md",
+    "type": "file"
+  },
+  "TERM_Terminologie_Scientifique_et_Expression_Ecrite_et_Orale_(I_-L1)": {
+    "Cours": {
+      "1-Syllabus.pdf": {
+        "name": "1-Syllabus.pdf",
+        "path": "TERM Terminologie Scientifique et Expression Ecrite et Orale (I -L1)/Cours/1-Syllabus.pdf",
+        "sha": "e8de4dee085a234e84360904bdc8d0712ebcde1e",
+        "size": 624507,
+        "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/TERM%20Terminologie%20Scientifique%20et%20Expression%20Ecrite%20et%20Orale%20(I%20-L1)/Cours/1-Syllabus.pdf?ref=main",
+        "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/TERM%20Terminologie%20Scientifique%20et%20Expression%20Ecrite%20et%20Orale%20(I%20-L1)/Cours/1-Syllabus.pdf",
+        "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/e8de4dee085a234e84360904bdc8d0712ebcde1e",
+        "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/TERM%20Terminologie%20Scientifique%20et%20Expression%20Ecrite%20et%20Orale%20(I%20-L1)/Cours/1-Syllabus.pdf",
+        "type": "file"
+      },
+      "Cours_1_-_La_terminologie.pdf": {
+        "name": "Cours 1 - La terminologie.pdf",
+        "path": "TERM Terminologie Scientifique et Expression Ecrite et Orale (I -L1)/Cours/Cours 1 - La terminologie.pdf",
+        "sha": "a41565a7948c9a4e36011b83363c001ddf5579a6",
+        "size": 760052,
+        "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/TERM%20Terminologie%20Scientifique%20et%20Expression%20Ecrite%20et%20Orale%20(I%20-L1)/Cours/Cours%201%20-%20La%20terminologie.pdf?ref=main",
+        "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/TERM%20Terminologie%20Scientifique%20et%20Expression%20Ecrite%20et%20Orale%20(I%20-L1)/Cours/Cours%201%20-%20La%20terminologie.pdf",
+        "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/a41565a7948c9a4e36011b83363c001ddf5579a6",
+        "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/TERM%20Terminologie%20Scientifique%20et%20Expression%20Ecrite%20et%20Orale%20(I%20-L1)/Cours/Cours%201%20-%20La%20terminologie.pdf",
+        "type": "file"
+      },
+      "Cours_2_-_la_polys%C3%A9mie_et_la_monos%C3%A9mie.pdf": {
+        "name": "Cours 2 - la polysémie et la monosémie.pdf",
+        "path": "TERM Terminologie Scientifique et Expression Ecrite et Orale (I -L1)/Cours/Cours 2 - la polysémie et la monosémie.pdf",
+        "sha": "a41565a7948c9a4e36011b83363c001ddf5579a6",
+        "size": 760052,
+        "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/TERM%20Terminologie%20Scientifique%20et%20Expression%20Ecrite%20et%20Orale%20(I%20-L1)/Cours/Cours%202%20-%20la%20polys%C3%A9mie%20et%20la%20monos%C3%A9mie.pdf?ref=main",
+        "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/TERM%20Terminologie%20Scientifique%20et%20Expression%20Ecrite%20et%20Orale%20(I%20-L1)/Cours/Cours%202%20-%20la%20polys%C3%A9mie%20et%20la%20monos%C3%A9mie.pdf",
+        "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/a41565a7948c9a4e36011b83363c001ddf5579a6",
+        "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/TERM%20Terminologie%20Scientifique%20et%20Expression%20Ecrite%20et%20Orale%20(I%20-L1)/Cours/Cours 2 - la polysémie et la monosémie.pdf",
+        "type": "file"
+      },
+      "Cours_3_-_la_connotation_et_la_d%C3%A9notation.pdf": {
+        "name": "Cours 3 - la connotation et la dénotation.pdf",
+        "path": "TERM Terminologie Scientifique et Expression Ecrite et Orale (I -L1)/Cours/Cours 3 - la connotation et la dénotation.pdf",
+        "sha": "7dcb0662ddbc04c00b0d51c0573057d81d4dabd7",
+        "size": 823674,
+        "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/TERM%20Terminologie%20Scientifique%20et%20Expression%20Ecrite%20et%20Orale%20(I%20-L1)/Cours/Cours%203%20-%20la%20connotation%20et%20la%20d%C3%A9notation.pdf?ref=main",
+        "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/TERM%20Terminologie%20Scientifique%20et%20Expression%20Ecrite%20et%20Orale%20(I%20-L1)/Cours/Cours%203%20-%20la%20connotation%20et%20la%20d%C3%A9notation.pdf",
+        "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/7dcb0662ddbc04c00b0d51c0573057d81d4dabd7",
+        "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/TERM%20Terminologie%20Scientifique%20et%20Expression%20Ecrite%20et%20Orale%20(I%20-L1)/Cours/Cours 3 - la connotation et la dénotation.pdf",
+        "type": "file"
+      },
+      "Cours_4_-_la_communication_selon_R_Jakobson.pdf": {
+        "name": "Cours 4 - la communication selon R Jakobson.pdf",
+        "path": "TERM Terminologie Scientifique et Expression Ecrite et Orale (I -L1)/Cours/Cours 4 - la communication selon R Jakobson.pdf",
+        "sha": "c1ea5c3b0b8847d160358ee37c935ff1625d166a",
+        "size": 254323,
+        "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/TERM%20Terminologie%20Scientifique%20et%20Expression%20Ecrite%20et%20Orale%20(I%20-L1)/Cours/Cours%204%20-%20la%20communication%20selon%20R%20Jakobson.pdf?ref=main",
+        "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/TERM%20Terminologie%20Scientifique%20et%20Expression%20Ecrite%20et%20Orale%20(I%20-L1)/Cours/Cours%204%20-%20la%20communication%20selon%20R%20Jakobson.pdf",
+        "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/c1ea5c3b0b8847d160358ee37c935ff1625d166a",
+        "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/TERM%20Terminologie%20Scientifique%20et%20Expression%20Ecrite%20et%20Orale%20(I%20-L1)/Cours/Cours%204%20-%20la%20communication%20selon%20R%20Jakobson.pdf",
+        "type": "file"
+      },
+      "Cours_5_-_les_n%C3%A9ologismes_et_les_archa%C3%AFsmes.pdf": {
+        "name": "Cours 5 - les néologismes et les archaïsmes.pdf",
+        "path": "TERM Terminologie Scientifique et Expression Ecrite et Orale (I -L1)/Cours/Cours 5 - les néologismes et les archaïsmes.pdf",
+        "sha": "f68576cbf960d3da873cac65fe84b5e6e4a05bd1",
+        "size": 1000252,
+        "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/TERM%20Terminologie%20Scientifique%20et%20Expression%20Ecrite%20et%20Orale%20(I%20-L1)/Cours/Cours%205%20-%20les%20n%C3%A9ologismes%20et%20les%20archa%C3%AFsmes.pdf?ref=main",
+        "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/TERM%20Terminologie%20Scientifique%20et%20Expression%20Ecrite%20et%20Orale%20(I%20-L1)/Cours/Cours%205%20-%20les%20n%C3%A9ologismes%20et%20les%20archa%C3%AFsmes.pdf",
+        "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/f68576cbf960d3da873cac65fe84b5e6e4a05bd1",
+        "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/TERM%20Terminologie%20Scientifique%20et%20Expression%20Ecrite%20et%20Orale%20(I%20-L1)/Cours/Cours 5 - les néologismes et les archaïsmes.pdf",
+        "type": "file"
+      }
+    }
+  },
+  "_Others": {
+    "Controles": {
+      "Controle_ALG1.jpg": {
+        "name": "Controle ALG1.jpg",
+        "path": "_Others/Controles/Controle ALG1.jpg",
+        "sha": "776328baec3c2ca101c596f1ecccc376ce554e95",
+        "size": 300294,
+        "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/_Others/Controles/Controle%20ALG1.jpg?ref=main",
+        "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/_Others/Controles/Controle%20ALG1.jpg",
+        "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/776328baec3c2ca101c596f1ecccc376ce554e95",
+        "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/_Others/Controles/Controle%20ALG1.jpg",
+        "type": "file"
+      },
+      "Controle_ALGO.jpg": {
+        "name": "Controle ALGO.jpg",
+        "path": "_Others/Controles/Controle ALGO.jpg",
+        "sha": "d4477bed54670bc8d7b421b9e0edb3c169f08536",
+        "size": 448985,
+        "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/_Others/Controles/Controle%20ALGO.jpg?ref=main",
+        "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/_Others/Controles/Controle%20ALGO.jpg",
+        "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/d4477bed54670bc8d7b421b9e0edb3c169f08536",
+        "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/_Others/Controles/Controle%20ALGO.jpg",
+        "type": "file"
+      },
+      "Controle_ANA1.jpg": {
+        "name": "Controle ANA1.jpg",
+        "path": "_Others/Controles/Controle ANA1.jpg",
+        "sha": "183085270609c578a65e4814b0e3466e2eb759d3",
+        "size": 299180,
+        "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/_Others/Controles/Controle%20ANA1.jpg?ref=main",
+        "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/_Others/Controles/Controle%20ANA1.jpg",
+        "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/183085270609c578a65e4814b0e3466e2eb759d3",
+        "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/_Others/Controles/Controle%20ANA1.jpg",
+        "type": "file"
+      },
+      "Controle_COMP.jpg": {
+        "name": "Controle COMP.jpg",
+        "path": "_Others/Controles/Controle COMP.jpg",
+        "sha": "7a461fb540cb99f4bf625211bf5a8917f5403e4e",
+        "size": 426753,
+        "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/_Others/Controles/Controle%20COMP.jpg?ref=main",
+        "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/_Others/Controles/Controle%20COMP.jpg",
+        "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/7a461fb540cb99f4bf625211bf5a8917f5403e4e",
+        "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/_Others/Controles/Controle%20COMP.jpg",
+        "type": "file"
+      },
+      "Controle_CRI.jpg": {
+        "name": "Controle CRI.jpg",
+        "path": "_Others/Controles/Controle CRI.jpg",
+        "sha": "26e2baef5e05861b0dfd5adcdb128854e5219ed7",
+        "size": 367085,
+        "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/_Others/Controles/Controle%20CRI.jpg?ref=main",
+        "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/_Others/Controles/Controle%20CRI.jpg",
+        "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/26e2baef5e05861b0dfd5adcdb128854e5219ed7",
+        "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/_Others/Controles/Controle%20CRI.jpg",
+        "type": "file"
+      },
+      "Controle_TERM.jpg": {
+        "name": "Controle TERM.jpg",
+        "path": "_Others/Controles/Controle TERM.jpg",
+        "sha": "ba981f6d3cd94af7e6f7c23eebc47140608c1b39",
+        "size": 325635,
+        "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/_Others/Controles/Controle%20TERM.jpg?ref=main",
+        "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/_Others/Controles/Controle%20TERM.jpg",
+        "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/ba981f6d3cd94af7e6f7c23eebc47140608c1b39",
+        "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/_Others/Controles/Controle%20TERM.jpg",
+        "type": "file"
+      },
+      "Interro_ALGO.jpg": {
+        "name": "Interro ALGO.jpg",
+        "path": "_Others/Controles/Interro ALGO.jpg",
+        "sha": "e22de0fdebd248060218989cd62b5ed6bb4ecc60",
+        "size": 263140,
+        "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/_Others/Controles/Interro%20ALGO.jpg?ref=main",
+        "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/_Others/Controles/Interro%20ALGO.jpg",
+        "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/e22de0fdebd248060218989cd62b5ed6bb4ecc60",
+        "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/_Others/Controles/Interro%20ALGO.jpg",
+        "type": "file"
+      },
+      "Interro_ANA1.jpg": {
+        "name": "Interro ANA1.jpg",
+        "path": "_Others/Controles/Interro ANA1.jpg",
+        "sha": "1216463c1b55096102c90a9d6e83491671093ea2",
+        "size": 279829,
+        "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/_Others/Controles/Interro%20ANA1.jpg?ref=main",
+        "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/_Others/Controles/Interro%20ANA1.jpg",
+        "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/1216463c1b55096102c90a9d6e83491671093ea2",
+        "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/_Others/Controles/Interro%20ANA1.jpg",
+        "type": "file"
+      },
+      "Interro_CRI.jpg": {
+        "name": "Interro CRI.jpg",
+        "path": "_Others/Controles/Interro CRI.jpg",
+        "sha": "d26433f0d5180a93361fb90c5d99ccdf0d66a949",
+        "size": 39825,
+        "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/_Others/Controles/Interro%20CRI.jpg?ref=main",
+        "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/_Others/Controles/Interro%20CRI.jpg",
+        "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/d26433f0d5180a93361fb90c5d99ccdf0d66a949",
+        "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/_Others/Controles/Interro%20CRI.jpg",
+        "type": "file"
+      },
+      "Interro_comp.jpg": {
+        "name": "Interro comp.jpg",
+        "path": "_Others/Controles/Interro comp.jpg",
+        "sha": "8162d5d29060b91d4c039670f8f06fabbf084850",
+        "size": 256972,
+        "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/_Others/Controles/Interro%20comp.jpg?ref=main",
+        "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/_Others/Controles/Interro%20comp.jpg",
+        "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/8162d5d29060b91d4c039670f8f06fabbf084850",
+        "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/_Others/Controles/Interro%20comp.jpg",
+        "type": "file"
+      },
+      "Interros_ALG1.jpg": {
+        "name": "Interros ALG1.jpg",
+        "path": "_Others/Controles/Interros ALG1.jpg",
+        "sha": "60264cf26e484e15ad821a42e567861c44f44f69",
+        "size": 236086,
+        "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/_Others/Controles/Interros%20ALG1.jpg?ref=main",
+        "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/_Others/Controles/Interros%20ALG1.jpg",
+        "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/60264cf26e484e15ad821a42e567861c44f44f69",
+        "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/_Others/Controles/Interros%20ALG1.jpg",
+        "type": "file"
+      }
+    },
+    "FAQ": {
+      "FAQ.txt": {
+        "name": "FAQ.txt",
+        "path": "_Others/FAQ/FAQ.txt",
+        "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+        "size": 0,
+        "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/_Others/FAQ/FAQ.txt?ref=main",
+        "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/_Others/FAQ/FAQ.txt",
+        "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+        "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/_Others/FAQ/FAQ.txt",
+        "type": "file"
+      }
+    },
+    "Videos_Recommandeé": {
+      "Liens_Youtube.txt": {
+        "name": "Liens Youtube.txt",
+        "path": "_Others/Videos Recommandeé/Liens Youtube.txt",
+        "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+        "size": 0,
+        "url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/contents/_Others/Videos%20Recommande%C3%A9/Liens%20Youtube.txt?ref=main",
+        "html_url": "https://github.com/NTIC-Constantine2/Licence-S1/blob/main/_Others/Videos%20Recommande%C3%A9/Liens%20Youtube.txt",
+        "git_url": "https://api.github.com/repos/NTIC-Constantine2/Licence-S1/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+        "download_url": "https://raw.githubusercontent.com/NTIC-Constantine2/Licence-S1/main/_Others/Videos Recommandeé/Liens%20Youtube.txt",
+        "type": "file"
+      }
+    }
+  }
+}
