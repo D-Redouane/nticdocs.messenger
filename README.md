@@ -164,7 +164,9 @@ Special thanks to the contributors who helped with this project:
 
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/162585510?s=200&v=4" alt="Reserved Rights Logo" width="100">
+ <a href="https://github.com/NTIC-Constantine2">
+    <img src="https://avatars.githubusercontent.com/u/162585510?s=200&v=4" alt="Reserved Rights Logo" width="100">
+ </a>
 </div>
 
 <div align="center">
