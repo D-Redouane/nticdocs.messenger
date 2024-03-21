@@ -10,7 +10,9 @@ To run the Messenger Bot on Replit.com, follow these steps:
 
    Replace `your_username` with your GitHub username, `your_token` with your GitHub token, and `your_repo` with the name of your repository.
 
-2. Copy the environment variables from the `.env.example` file and create a new `.env` file in the root directory of the project:
+2. Configurations of the environment variables:
+   
+   1. For the normal repo, Copy the environment variables from the `.env.example` file and create a new `.env` file in the root directory of the project:
 
     ```plaintext
     cp .env.example .env
@@ -38,11 +40,14 @@ To run the Messenger Bot on Replit.com, follow these steps:
      JSON_FILE_PATH=./tree/NTIC-Constantine2_Licence-S1.json
     ```
 
-3. Run the Flask application:
+
+   2. For Replit repo , add them from the `Secrets` Section Look to the [docs of Secrets](https://docs.replit.com/programming-ide/workspace-features/secrets)
+
+<!-- 3. Run the Flask application:
 
     ```bash
     python main.py
-    ```
+    ``` -->
 
 ## Usage
 
@@ -65,31 +70,57 @@ The bot uses a webhook to receive messages and events from Facebook Messenger. T
 To set up the webhook, create a Facebook app and page, then configure the webhook URL to point to your ngrok domain.
 
 ## Ngrok Configuration
-
-1. Download Ngrok from the official website: [Ngrok Download](https://ngrok.com/download)
-   Or
+1. Configuration From zero
    
-    ```bash
-    # exemple: wget https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-linux-amd64.tgz
-    ```
+    1. Download Ngrok from the official website: [Ngrok Download](https://ngrok.com/download)
+     Or
+     
+      ```bash
+      # exemple: wget https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-linux-amd64.tgz
+      ```
 
-2. Unzip the downloaded file.
+  2. Unzip the downloaded file.
+     
+      ```bash
+      # exemple: tar -xvzf ngrok-v3-stable-linux-amd64.tgz
+      ```
+     
+  3. Configure Ngrok with your authentication token from your ngrok account [Ngrok Account](https://dashboard.ngrok.com):
+
+      ```bash
+      ./ngrok/ngrok authtoken YOUR_AUTH_TOKEN
+      ```
+
+  4. Run Ngrok to expose your local server:
+
+      ```bash
+      ./ngrok/ngrok http --domain=YOUR_NGROK_DOMAIN 8080
+      ```
+
+2. From already Setted in this repo : 
    
-    ```bash
-    # exemple: tar -xvzf ngrok-v3-stable-linux-amd64.tgz
-    ```
-   
-3. Configure Ngrok with your authentication token from your ngrok account [Ngrok Account](https://dashboard.ngrok.com):
+    1. Add to the Config file in .config/ngrok/ngrok.yml add the `authtoken`  variable by the verify token of ngrok and also the `web_allow_hosts` variable that you will add the replit url to it 
+     
+      ```
+      version: "2"
 
-    ```bash
-    ./ngrok authtoken YOUR_AUTH_TOKEN
-    ```
+      # TOKEN EXAMPLE: 2dm5qK8N02uxQGScSNaO5ZBK5et_2e7o5AnM9kuenSLSSdXeJ
+      authtoken: <YOUR NGROK AUTH TOKEN>
 
-4. Run Ngrok to expose your local server:
+      web_addr: 127.0.0.1:4040
+      web_allow_hosts:
+        - localhost
 
-    ```bash
-    ./ngrok http --domain=YOUR_NGROK_DOMAIN 8080
-    ```
+        # YOUR REPL URL EXAMPLE: https://f9d74caa-2f25-4dc1-8ae5-e5a0f672db39-00-2ju51o8qw2tef.picard.repl.co/
+        - <YOUR REPL URL>
+      ```     
+     
+  2. Run Ngrok to expose your local server:
+
+      ```bash
+      ./ngrok/ngrok http --domain=YOUR_NGROK_DOMAIN 8080
+      ```
+
 
 ## Directory Structure
 
@@ -107,6 +138,9 @@ messenger
 │   ├── functions.py
 │   ├── routes.py
 │   └── variables.py
+├── .config
+│   └── ngrok
+│       └── ngrok.yml
 ├── ngrok
 │   └── ngrok
 └── tree
