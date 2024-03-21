@@ -1,0 +1,11 @@
+version: "2"
+
+# TOKEN EXAMPLE: 2dm5qK8N02uxQGScSNaO5ZBK5et_2e7o5AnM9kuenSLSSdXeJ
+authtoken: <EXMPLE OF TOKEN>
+
+web_addr: 127.0.0.1:4040
+web_allow_hosts:
+  - localhost
+
+  # YOUR REPL URL EXAMPLE: 
+  - <YOUR REPL URL>

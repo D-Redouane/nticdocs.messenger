@@ -163,7 +163,7 @@ cython_debug/
 
 
 
-.config
+# .config
 .local
 .pythonlibs
 .upm
