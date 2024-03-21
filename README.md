@@ -150,3 +150,20 @@ messenger
 ## License
 
 This project is licensed under the the Creative Commons Attribution-NonCommercial 4.0 International License. - see the [LICENSE.md](LICENSE.md) file for details.
+
+## Contributors
+
+Special thanks to the contributors who helped with this project:
+
+- [DADDIOUAMER Redouane](https://github.com/D-Redouane)
+
+
+## Reserved Rights
+
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/162585510?s=200&v=4" alt="Reserved Rights Logo" width="100">
+</div>
+
+<div align="center">
+  © 2024, All rights reserved to NTIC Documents.
+</div>
