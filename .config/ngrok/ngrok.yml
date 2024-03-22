@@ -1,11 +1,11 @@
-      version: "2"
+version: "2"
 
-      # TOKEN EXAMPLE: 2dm5qK8N02uxQGScSNaO5ZBK5et_2e7o5AnM9kuenSLSSdXeJ
-      authtoken: <EXMPLE OF TOKEN>
+# TOKEN EXAMPLE: 2dm5qK8N02uxQGScSNaO5ZBK5et_2e7o5AnM9kuenSLSSdXeJ
+authtoken: <EXMPLE OF TOKEN>
 
-      web_addr: 127.0.0.1:4040
-      web_allow_hosts:
-        - localhost
+web_addr: 127.0.0.1:4040
+web_allow_hosts:
+  - localhost
 
-        # YOUR REPL URL EXAMPLE: https://f9d74caa-2f25-4dc1-8ae5-e5a0f672db39-00-2ju51o8qw2tef.picard.repl.co/
-        - <YOUR REPL URL>
+  # YOUR REPL URL EXAMPLE: https://f9d74caa-2f25-4dc1-8ae5-e5a0f672db39-00-2ju51o8qw2tef.picard.repl.co/
+  - <YOUR REPL URL>
