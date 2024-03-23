@@ -121,6 +121,12 @@ To set up the webhook, create a Facebook app and page, then configure the webhoo
       ./ngrok/ngrok http --domain=YOUR_NGROK_DOMAIN 8080
       ```
 
+   3. give the ngrok script the excute permission:
+
+   ```bash
+   chmode +x ./ngrok/ngrok
+   ```
+
 
 ## Directory Structure
 

@@ -1,3 +1,4 @@
+from pymessenger import Bot
 from src.routes import *
 from flask import Flask
 from threading import Thread
