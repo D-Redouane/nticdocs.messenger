@@ -2,7 +2,7 @@ from pymessenger import Bot
 import json
 from flask import Flask, request
 import requests
-from variables import *
+from .variables import *
 
 
 

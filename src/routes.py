@@ -1,5 +1,5 @@
 from flask import Blueprint, jsonify, request
-from functions import *
+from .functions import *
 
 webhook_routes = Blueprint('webhook', __name__)
 

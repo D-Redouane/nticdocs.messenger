@@ -111,7 +111,7 @@ To set up the webhook, create a Facebook app and page, then configure the webhoo
       web_allow_hosts:
         - localhost
 
-        # YOUR REPL URL EXAMPLE: https://f9d74caa-2f25-4dc1-8ae5-e5a0f672db39-00-2ju51o8qw2tef.picard.repl.co/
+        # YOUR REPL URL EXAMPLE: f9d74caa-2f25-4dc1-8ae5-e5a0f672db39-00-2ju51o8qw2tef.picard.repl.co (witout slashes or https://)
         - <YOUR REPL URL>
       ```     
      
